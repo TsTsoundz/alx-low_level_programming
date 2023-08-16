@@ -3,20 +3,15 @@
 #include <time.h>
 
  /**
-  * the main -print_putchar, followed with by a new line
-  * Return: Alaway 0 (Success)
+  * main - Entry point
+  *
+  * Return: Always 0 (success)
   */
+
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
 
+	printf("_putchar\n");
+	
 	return (0);
 }
