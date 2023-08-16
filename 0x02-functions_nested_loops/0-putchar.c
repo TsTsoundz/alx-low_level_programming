@@ -1,11 +1,11 @@
-#inlude "main.h"
+#include "main.h"
  /**
   * the main -print_putchar, followed with by a new line
   * Return: Alays 0 (successful)
   */
 int main(void)
 {
-	putchar(");
+	putchar('_');
 		_putchar('p');
 		_putchar('u');
 		_putchar('t');
@@ -13,7 +13,7 @@ int main(void)
 		_putchar('h');
 		_putchar('a');
 		_putchar('r');
-		_putchar('\n);
+		_putchar('\n');
 
 		return (0);
 }
