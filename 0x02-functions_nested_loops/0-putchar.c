@@ -1,4 +1,7 @@
-#include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
  /**
   * the main -print_putchar, followed with by a new line
   * Return: Alaway 0 (Success)
